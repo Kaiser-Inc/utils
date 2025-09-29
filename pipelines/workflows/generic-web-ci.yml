@@ -1,5 +1,5 @@
 
-name: Huawei web CI Pipeline
+name: name
 
 on:
   push: 
